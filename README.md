@@ -9,7 +9,7 @@ Define Your Pipeline: Define your data processing pipeline by creating a Python 
 
 
 # Define your pipeline
-PIPELINE = [
+```PIPELINE = [
     {
         'script': 'stage1.py',
         'type': 'python',
@@ -23,7 +23,7 @@ PIPELINE = [
         'output_folder': 'stage2_output'
     },
     # Add more stages as needed
-]
+]```
 Run the Pipeline: Run the pipeline using the provided pipeliner.py script. This script reads the pipeline definition, executes each stage sequentially, and passes the necessary input and output paths to each stage.
 
 
@@ -37,7 +37,7 @@ Create a pipeline definition file (example.py):
 
 
 from SimplePipeline import Pipeline
-
+```
 class ExamplePipeline(Pipeline):
     PIPELINE = [
         {
@@ -54,6 +54,7 @@ class ExamplePipeline(Pipeline):
         },
         # Add more stages as needed
     ]
+```
 Create individual stage scripts (stage1.py, stage2.sh, etc.) to perform specific data processing tasks.
 
 Run the pipeline:
