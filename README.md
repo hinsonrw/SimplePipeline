@@ -60,8 +60,9 @@ class ExamplePipeline(Pipeline):
 Create individual stage scripts (stage1.py, stage2.sh, etc.) to perform specific data processing tasks.
 
 Run the pipeline:
-
+```
 python3 pipeliner.py
+```
 View the results in the specified output folders.
 
 Contributing
