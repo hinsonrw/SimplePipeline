@@ -9,7 +9,8 @@ Define Your Pipeline: Define your data processing pipeline by creating a Python 
 
 
 # Define your pipeline
-```PIPELINE = [
+```
+PIPELINE = [
     {
         'script': 'stage1.py',
         'type': 'python',
@@ -23,7 +24,8 @@ Define Your Pipeline: Define your data processing pipeline by creating a Python 
         'output_folder': 'stage2_output'
     },
     # Add more stages as needed
-]```
+]
+```
 Run the Pipeline: Run the pipeline using the provided pipeliner.py script. This script reads the pipeline definition, executes each stage sequentially, and passes the necessary input and output paths to each stage.
 
 
