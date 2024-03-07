@@ -2,7 +2,7 @@ SimplePipeline
 Simple tool for data pipelining.
 
 Overview
-SimplePipeline is a lightweight tool designed to facilitate data pipelining by chaining together simple scripts and passing inputs from one script to the outputs of another. It's particularly useful for processing data in sequential stages where each stage depends on the output of the previous one.
+SimplePipeline is a lightweight tool designed to facilitate data pipelining by chaining together simple scripts and passing inputs from one script to the outputs of another. It's particularly useful in testing small changes on individual scripts vs each other. 
 
 Usage
 Define Your Pipeline: Define your data processing pipeline by creating a Python script that specifies the sequence of stages, input paths, and output paths. Each stage can be a Python or shell script.
