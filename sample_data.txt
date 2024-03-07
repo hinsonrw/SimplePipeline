@@ -1,0 +1,1226 @@
+{
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp60_r1i1p1_CONUS_NorESM1-M_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmax", 
+  "model": "noresm1-m", 
+  "md5": "79a6abd88b7d4a03da1d03b5ffce8ec3"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_HadGEM2-CC_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "hadgem2-cc", 
+  "md5": "453d90d8054160d5c4920d607ebf7022"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_MIROC-ESM_208101-208512.nc": {
+  "year_start": "2081", 
+  "year_end": "2085", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "miroc-esm", 
+  "md5": "acce5d0475272b556d6cda981e174824"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_inmcm4_199001-199412.nc": {
+  "year_start": "1990", 
+  "year_end": "1994", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "inmcm4", 
+  "md5": "b2c517201c39e1159505715578a98a39"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp60_r1i1p1_CONUS_GFDL-CM3_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "gfdl-cm3", 
+  "md5": "79f1d56d3dbfd856985767356979fa99"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp60_r1i1p1_CONUS_GFDL-CM3_204101-204512.nc": {
+  "year_start": "2041", 
+  "year_end": "2045", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "gfdl-cm3", 
+  "md5": "0a30ac405e725e82186dcedfd5084e7b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp26_r1i1p1_CONUS_MIROC-ESM-CHEM_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp26", 
+  "variable": "pr", 
+  "model": "miroc-esm-chem", 
+  "md5": "809584ceea6faf7cfa0ad49feef8bfbc"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_historical_r1i1p1_CONUS_HadGEM2-CC_195001-195412.nc": {
+  "year_start": "1950", 
+  "year_end": "1954", 
+  "experiment_id": "historical", 
+  "variable": "pr", 
+  "model": "hadgem2-cc", 
+  "md5": "30c0247781b8c1f238ff994d138126ed"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_MIROC-ESM-CHEM_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "miroc-esm-chem", 
+  "md5": "93921148403605802d4a24da38453942"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_historical_r1i1p1_CONUS_ACCESS1-0_199501-199912.nc": {
+  "year_start": "1995", 
+  "year_end": "1999", 
+  "experiment_id": "historical", 
+  "variable": "pr", 
+  "model": "access1-0", 
+  "md5": "6efe8d24e09ee8285f494f17987e4418"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_historical_r1i1p1_CONUS_MIROC-ESM_195501-195912.nc": {
+  "year_start": "1955", 
+  "year_end": "1959", 
+  "experiment_id": "historical", 
+  "variable": "pr", 
+  "model": "miroc-esm", 
+  "md5": "6ff6f52701df67daa4e432fdcac548c9"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp60_r1i1p1_CONUS_GFDL-ESM2M_205101-205512.nc": {
+  "year_start": "2051", 
+  "year_end": "2055", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "gfdl-esm2m", 
+  "md5": "2955922bca90e2e202302e877d353da1"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_IPSL-CM5A-MR_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5a-mr", 
+  "md5": "38960cdfd2f0e7cdf45c87749b7e8060"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_CESM1-CAM5_198001-198412.nc": {
+  "year_start": "1980", 
+  "year_end": "1984", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "cesm1-cam5", 
+  "md5": "f58bb60781675a374d349aa24c466f20"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp60/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_quartile25_amon_rcp60_CONUS_207101-207512.nc": {
+  "year_start": "2071", 
+  "year_end": "2075", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmin", 
+  "model": "quartile25", 
+  "md5": "ca9a471513db2c400875fc49e2d03039"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_inmcm4_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "inmcm4", 
+  "md5": "14578bd3c404edb8638a0cabd8dd3570"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_IPSL-CM5A-LR_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5a-lr", 
+  "md5": "0920673556dee7c5f424570c6d621ce2"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_historical_r1i1p1_CONUS_HadGEM2-AO_200501-200512.nc": {
+  "year_start": "2005", 
+  "year_end": "2005", 
+  "experiment_id": "historical", 
+  "variable": "tasmin", 
+  "model": "hadgem2-ao", 
+  "md5": "f678c61163461ab49745b6b3f413dc2b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp45_r1i1p1_CONUS_bcc-csm1-1-m_200601-201012.nc": {
+  "year_start": "2006", 
+  "year_end": "2010", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "bcc-csm1-1-m", 
+  "md5": "6d6e829c4227d0a21b61651ce445ae35"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_HadGEM2-AO_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "hadgem2-ao", 
+  "md5": "7d7ddc6f09783e9d05c38f228e84c375"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_historical_r1i1p1_CONUS_GFDL-CM3_199501-199912.nc": {
+  "year_start": "1995", 
+  "year_end": "1999", 
+  "experiment_id": "historical", 
+  "variable": "pr", 
+  "model": "gfdl-cm3", 
+  "md5": "20ff9044b1d21e77184eb34de33f0aa1"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_HadGEM2-ES_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "hadgem2-es", 
+  "md5": "ef7a738aae59a8e97135146b20e1dedf"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_CESM1-BGC_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "cesm1-bgc", 
+  "md5": "a6825780e6a8f767a10d17c01574befb"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_GFDL-CM3_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "gfdl-cm3", 
+  "md5": "95d0d2202ade5b5f1104425f63c7ecd4"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp60_r1i1p1_CONUS_IPSL-CM5A-MR_204101-204512.nc": {
+  "year_start": "2041", 
+  "year_end": "2045", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5a-mr", 
+  "md5": "43b912d0979f07e441c86c9779d21e64"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_MIROC-ESM_207101-207512.nc": {
+  "year_start": "2071", 
+  "year_end": "2075", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "miroc-esm", 
+  "md5": "f003c717cc61d314372c116812a74133"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_historical_r1i1p1_CONUS_HadGEM2-CC_199501-199912.nc": {
+  "year_start": "1995", 
+  "year_end": "1999", 
+  "experiment_id": "historical", 
+  "variable": "pr", 
+  "model": "hadgem2-cc", 
+  "md5": "eb47918ce89e3f140f301bf952deaf67"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp60_r1i1p1_CONUS_CSIRO-Mk3-6-0_202601-203012.nc": {
+  "year_start": "2026", 
+  "year_end": "2030", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmin", 
+  "model": "csiro-mk3-6-0", 
+  "md5": "549c5a64391f74df649ee0994418865f"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_IPSL-CM5B-LR_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5b-lr", 
+  "md5": "2df68c76cb0dc48468a9f6abec09c7cc"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp45_r1i1p1_CONUS_FGOALS-g2_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "fgoals-g2", 
+  "md5": "47756b8a7e380d33479508cad201d7c1"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_CMCC-CM_206601-207012.nc": {
+  "year_start": "2066", 
+  "year_end": "2070", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "cmcc-cm", 
+  "md5": "02e28112fcc01bbd1fa16d804d83b0b1"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_FIO-ESM_203601-204012.nc": {
+  "year_start": "2036", 
+  "year_end": "2040", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "fio-esm", 
+  "md5": "19e6b1fe6ac30c40cb2bc49fc892d280"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp60/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_quartile25_amon_rcp60_CONUS_204601-205012.nc": {
+  "year_start": "2046", 
+  "year_end": "2050", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmax", 
+  "model": "quartile25", 
+  "md5": "e02ac2a0d6eae1b8e288a07c6bbc26a1"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp45_r1i1p1_CONUS_HadGEM2-CC_208601-209012.nc": {
+  "year_start": "2086", 
+  "year_end": "2090", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "hadgem2-cc", 
+  "md5": "be6911573e18085f2190e7503ebbf322"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_NorESM1-M_207101-207512.nc": {
+  "year_start": "2071", 
+  "year_end": "2075", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "noresm1-m", 
+  "md5": "f6614443dd1ba5f615cfee16409b261c"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_CSIRO-Mk3-6-0_209101-209512.nc": {
+  "year_start": "2091", 
+  "year_end": "2095", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "csiro-mk3-6-0", 
+  "md5": "263137578db09f0e7636dd7f0e8a51ff"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_IPSL-CM5B-LR_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "ipsl-cm5b-lr", 
+  "md5": "92cb42adefd462e1c01c72921bbb1f82"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_CCSM4_200601-201012.nc": {
+  "year_start": "2006", 
+  "year_end": "2010", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "ccsm4", 
+  "md5": "6022b888e090ba76c653817a507c6923"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_bcc-csm1-1_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "bcc-csm1-1", 
+  "md5": "f8b15600847751464e93b68fd9f624de"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_HadGEM2-CC_203601-204012.nc": {
+  "year_start": "2036", 
+  "year_end": "2040", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "hadgem2-cc", 
+  "md5": "05782baa0abc84d33c942008aea31b85"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_CESM1-BGC_200501-200512.nc": {
+  "year_start": "2005", 
+  "year_end": "2005", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "cesm1-bgc", 
+  "md5": "30380a95b7014989b95e11aff56a3cc6"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_quartile25_amon_rcp45_CONUS_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "quartile25", 
+  "md5": "1e81f5312ad547a83eab46117ea6d98d"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_GFDL-ESM2G_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "gfdl-esm2g", 
+  "md5": "0ae5de6821ad1eb083bf1b0b165eb6e6"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp60_r1i1p1_CONUS_HadGEM2-AO_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmax", 
+  "model": "hadgem2-ao", 
+  "md5": "7d86d99f154fa1dbbb3e73b562f26dd3"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_CNRM-CM5_203601-204012.nc": {
+  "year_start": "2036", 
+  "year_end": "2040", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "cnrm-cm5", 
+  "md5": "49be723691d5f17be26f0acba49f04e0"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_historical_r1i1p1_CONUS_IPSL-CM5B-LR_195001-195412.nc": {
+  "year_start": "1950", 
+  "year_end": "1954", 
+  "experiment_id": "historical", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5b-lr", 
+  "md5": "d29e9e74bb64c44f65f0628395eecca2"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_CSIRO-Mk3-6-0_200601-201012.nc": {
+  "year_start": "2006", 
+  "year_end": "2010", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "csiro-mk3-6-0", 
+  "md5": "c0ab985b66eac644f6680e55db35c7f4"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_bcc-csm1-1-m_196001-196412.nc": {
+  "year_start": "1960", 
+  "year_end": "1964", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "bcc-csm1-1-m", 
+  "md5": "483962a02691bca437696e67146201f6"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_IPSL-CM5A-MR_204601-205012.nc": {
+  "year_start": "2046", 
+  "year_end": "2050", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "ipsl-cm5a-mr", 
+  "md5": "62fafe4494ea04ce6257f28b8a48a065"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_ens-avg_amon_rcp45_CONUS_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "ens-avg", 
+  "md5": "56824322aec05ff919bdd11c89609096"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_MPI-ESM-MR_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "mpi-esm-mr", 
+  "md5": "46a8a179db0c70ff19143d4db1a4fcaa"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_IPSL-CM5B-LR_207101-207512.nc": {
+  "year_start": "2071", 
+  "year_end": "2075", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5b-lr", 
+  "md5": "708364cbf2396d304855f35299c62c03"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_ens-avg_amon_rcp45_CONUS_205601-206012.nc": {
+  "year_start": "2056", 
+  "year_end": "2060", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "ens-avg", 
+  "md5": "8d1a26b1a8c95350ffaeae78c17f3a21"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp26/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_quartile75_amon_rcp26_CONUS_205601-206012.nc": {
+  "year_start": "2056", 
+  "year_end": "2060", 
+  "experiment_id": "rcp26", 
+  "variable": "pr", 
+  "model": "quartile75", 
+  "md5": "2da183c098518e49206af0d68e20e966"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp60_r1i1p1_CONUS_FIO-ESM_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmin", 
+  "model": "fio-esm", 
+  "md5": "3337a1b785b5ba8cdad81edc4e38113f"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_quartile75_amon_rcp60_CONUS_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "quartile75", 
+  "md5": "06152768e6836c01d24b30e5f56ad08f"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_NorESM1-M_204601-205012.nc": {
+  "year_start": "2046", 
+  "year_end": "2050", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "noresm1-m", 
+  "md5": "e7171904c2fe8ca9a2778564562a88b2"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_MRI-CGCM3_207101-207512.nc": {
+  "year_start": "2071", 
+  "year_end": "2075", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "mri-cgcm3", 
+  "md5": "095e6b458ab845a69c8c9e7285ef9deb"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_MIROC5_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "miroc5", 
+  "md5": "f79dd2fdc609e55046961e358d9ca133"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp60_r1i1p1_CONUS_HadGEM2-AO_208601-209012.nc": {
+  "year_start": "2086", 
+  "year_end": "2090", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "hadgem2-ao", 
+  "md5": "edc83a81d6b80c67338ce1109a22d7ee"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_CESM1-BGC_206101-206512.nc": {
+  "year_start": "2061", 
+  "year_end": "2065", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "cesm1-bgc", 
+  "md5": "c2480b8f9d5b4f8268f93206c6d0ea28"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_NorESM1-M_209601-209912.nc": {
+  "year_start": "2096", 
+  "year_end": "2099", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "noresm1-m", 
+  "md5": "ecdf72e48ae1e0bee2469afc3f4e8e49"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_CESM1-CAM5_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "cesm1-cam5", 
+  "md5": "0cbd542214bad6d7247394e99192c5ab"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_bcc-csm1-1-m_197501-197912.nc": {
+  "year_start": "1975", 
+  "year_end": "1979", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "bcc-csm1-1-m", 
+  "md5": "63035e2929651beeca63b19bca72eaa9"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_FIO-ESM_205101-205512.nc": {
+  "year_start": "2051", 
+  "year_end": "2055", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "fio-esm", 
+  "md5": "b4f0fae87e88fc2e9f10974fd659ff3b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_MRI-CGCM3_202601-203012.nc": {
+  "year_start": "2026", 
+  "year_end": "2030", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "mri-cgcm3", 
+  "md5": "4e3300da0c595f6a20b7fd41853a5210"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp26_r1i1p1_CONUS_MIROC-ESM-CHEM_206101-206512.nc": {
+  "year_start": "2061", 
+  "year_end": "2065", 
+  "experiment_id": "rcp26", 
+  "variable": "pr", 
+  "model": "miroc-esm-chem", 
+  "md5": "67e2fbba488836431350a8cf95c77b61"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp60/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_quartile75_amon_rcp60_CONUS_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmin", 
+  "model": "quartile75", 
+  "md5": "23990c19fabb19eead56d6ac0acf357b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_HadGEM2-CC_204101-204512.nc": {
+  "year_start": "2041", 
+  "year_end": "2045", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "hadgem2-cc", 
+  "md5": "0796180b8e5e172b8dca66e440067c65"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp26_r1i1p1_CONUS_CESM1-CAM5_209101-209512.nc": {
+  "year_start": "2091", 
+  "year_end": "2095", 
+  "experiment_id": "rcp26", 
+  "variable": "pr", 
+  "model": "cesm1-cam5", 
+  "md5": "4ccceddfce2d08cd4ac53f96815a414e"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp60_r1i1p1_CONUS_GFDL-ESM2M_205601-206012.nc": {
+  "year_start": "2056", 
+  "year_end": "2060", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "gfdl-esm2m", 
+  "md5": "2b0e81d12743cd4460f1e1084764b0c8"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_MIROC-ESM_203601-204012.nc": {
+  "year_start": "2036", 
+  "year_end": "2040", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "miroc-esm", 
+  "md5": "ae6ae125beb60d4d9a608301d9a0e898"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_GISS-E2-R_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "giss-e2-r", 
+  "md5": "c40e22e5dbe540ab4a7f0a91159826fe"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_MIROC5_204101-204512.nc": {
+  "year_start": "2041", 
+  "year_end": "2045", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "miroc5", 
+  "md5": "26e249db5bab5827d3b0dba5f8fc2e96"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_MIROC-ESM-CHEM_200601-201012.nc": {
+  "year_start": "2006", 
+  "year_end": "2010", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "miroc-esm-chem", 
+  "md5": "7c087d1b718feb47f98d11c539606627"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp26_r1i1p1_CONUS_HadGEM2-AO_209601-209912.nc": {
+  "year_start": "2096", 
+  "year_end": "2099", 
+  "experiment_id": "rcp26", 
+  "variable": "pr", 
+  "model": "hadgem2-ao", 
+  "md5": "768407f41ab5d0859b66d06520ace452"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_CSIRO-Mk3-6-0_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "csiro-mk3-6-0", 
+  "md5": "a0105a888b29c00dcbf886f818d2f04a"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_ens-avg_amon_rcp85_CONUS_206101-206512.nc": {
+  "year_start": "2061", 
+  "year_end": "2065", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "ens-avg", 
+  "md5": "d5a17cdcdfea96ef73205670136c1e11"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_HadGEM2-AO_207101-207512.nc": {
+  "year_start": "2071", 
+  "year_end": "2075", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "hadgem2-ao", 
+  "md5": "5a8873fbd9074c169a59d81bc9d3892b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_MIROC-ESM_202601-203012.nc": {
+  "year_start": "2026", 
+  "year_end": "2030", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "miroc-esm", 
+  "md5": "4bd0110f6124405318898b7002c0984f"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_historical_r1i1p1_CONUS_MPI-ESM-LR_195001-195412.nc": {
+  "year_start": "1950", 
+  "year_end": "1954", 
+  "experiment_id": "historical", 
+  "variable": "tasmin", 
+  "model": "mpi-esm-lr", 
+  "md5": "9249050c01a92cd6140059abd0807a97"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_historical_r1i1p1_CONUS_MIROC-ESM-CHEM_200001-200412.nc": {
+  "year_start": "2000", 
+  "year_end": "2004", 
+  "experiment_id": "historical", 
+  "variable": "tasmin", 
+  "model": "miroc-esm-chem", 
+  "md5": "3f17da3efdccdac2b770590d5b04781c"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_historical_r1i1p1_CONUS_CESM1-CAM5_199501-199912.nc": {
+  "year_start": "1995", 
+  "year_end": "1999", 
+  "experiment_id": "historical", 
+  "variable": "pr", 
+  "model": "cesm1-cam5", 
+  "md5": "80431aa69a716909a0e91b51fb9a755b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_MPI-ESM-LR_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "mpi-esm-lr", 
+  "md5": "03325e57f95ad253c6c80d1a88778dc7"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_BNU-ESM_208601-209012.nc": {
+  "year_start": "2086", 
+  "year_end": "2090", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "bnu-esm", 
+  "md5": "c7faaa13ce9dcc091d29e5ce1727c9d6"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_HadGEM2-CC_206601-207012.nc": {
+  "year_start": "2066", 
+  "year_end": "2070", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "hadgem2-cc", 
+  "md5": "ad5f4d8c6cde6d278e89236b5a605412"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_IPSL-CM5A-LR_208601-209012.nc": {
+  "year_start": "2086", 
+  "year_end": "2090", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5a-lr", 
+  "md5": "e0264ab551274be3828f8ecdce103a42"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_historical_r1i1p1_CONUS_IPSL-CM5A-LR_195001-195412.nc": {
+  "year_start": "1950", 
+  "year_end": "1954", 
+  "experiment_id": "historical", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5a-lr", 
+  "md5": "88da0a3ec99fdbd978d624fc2fede4c5"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_GFDL-ESM2M_207101-207512.nc": {
+  "year_start": "2071", 
+  "year_end": "2075", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "gfdl-esm2m", 
+  "md5": "a90dec67441834b809f0618a4adcbfe7"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_HadGEM2-AO_200601-201012.nc": {
+  "year_start": "2006", 
+  "year_end": "2010", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "hadgem2-ao", 
+  "md5": "b409122fee7161a2015262596df4deb4"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_HadGEM2-AO_203601-204012.nc": {
+  "year_start": "2036", 
+  "year_end": "2040", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "hadgem2-ao", 
+  "md5": "96fbdd8351ae383d4b4db70e6abfee15"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_HadGEM2-AO_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "hadgem2-ao", 
+  "md5": "ea9933a4eb9605afd57cabcc28d54bef"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp60_r1i1p1_CONUS_IPSL-CM5A-LR_205601-206012.nc": {
+  "year_start": "2056", 
+  "year_end": "2060", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmax", 
+  "model": "ipsl-cm5a-lr", 
+  "md5": "29a7297d9f864388103eac31112a7b15"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_ACCESS1-0_205101-205512.nc": {
+  "year_start": "2051", 
+  "year_end": "2055", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "access1-0", 
+  "md5": "934940e35569d7f7d5ee80483f367613"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_GISS-E2-R_201601-202012.nc": {
+  "year_start": "2016", 
+  "year_end": "2020", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "giss-e2-r", 
+  "md5": "7b048e88e32dd8eb05ff13b82a938391"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_GISS-E2-R-CC_197001-197412.nc": {
+  "year_start": "1970", 
+  "year_end": "1974", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "giss-e2-r-cc", 
+  "md5": "e4be4129f4fe6b308d4f87f5cf24c441"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_bcc-csm1-1_203601-204012.nc": {
+  "year_start": "2036", 
+  "year_end": "2040", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "bcc-csm1-1", 
+  "md5": "b278d2ccf6da47eb1a9cadfab1e830bc"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_NorESM1-M_204601-205012.nc": {
+  "year_start": "2046", 
+  "year_end": "2050", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "noresm1-m", 
+  "md5": "98a17afbf4831ddbb4a63dd36f1c686b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp45_r1i1p1_CONUS_FIO-ESM_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "fio-esm", 
+  "md5": "979837cdb56f49f2127369055c79dc12"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_MRI-CGCM3_202601-203012.nc": {
+  "year_start": "2026", 
+  "year_end": "2030", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "mri-cgcm3", 
+  "md5": "1cd56ad86b43267de607cc78064d8d93"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_IPSL-CM5A-MR_209601-209912.nc": {
+  "year_start": "2096", 
+  "year_end": "2099", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5a-mr", 
+  "md5": "3dcf51f559e22334e502e5537d4bb53a"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_GFDL-ESM2G_205601-206012.nc": {
+  "year_start": "2056", 
+  "year_end": "2060", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "gfdl-esm2g", 
+  "md5": "a540f531e31da3efa9ac88bf1d2b0921"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_historical_r1i1p1_CONUS_CESM1-CAM5_199001-199412.nc": {
+  "year_start": "1990", 
+  "year_end": "1994", 
+  "experiment_id": "historical", 
+  "variable": "pr", 
+  "model": "cesm1-cam5", 
+  "md5": "37788d3dfd7f54c80ce61f2bafcf43b8"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_MRI-CGCM3_206601-207012.nc": {
+  "year_start": "2066", 
+  "year_end": "2070", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "mri-cgcm3", 
+  "md5": "c371ea29831119ab55674da750391d41"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_GFDL-CM3_200601-201012.nc": {
+  "year_start": "2006", 
+  "year_end": "2010", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "gfdl-cm3", 
+  "md5": "4e3e58404befb6ec4acb6dce64bf41c1"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_ACCESS1-0_199001-199412.nc": {
+  "year_start": "1990", 
+  "year_end": "1994", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "access1-0", 
+  "md5": "9a8d2a7de8bb7a16f29a69946d27a8ce"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_GISS-E2-R-CC_204101-204512.nc": {
+  "year_start": "2041", 
+  "year_end": "2045", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "giss-e2-r-cc", 
+  "md5": "443beac080cb89935278c836cadeb357"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_bcc-csm1-1_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "bcc-csm1-1", 
+  "md5": "b8a4db733f7350e87a5a0d88f1d322a2"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_ACCESS1-0_206101-206512.nc": {
+  "year_start": "2061", 
+  "year_end": "2065", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "access1-0", 
+  "md5": "0708ed3e75db0ecfade78a85788ad616"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_MIROC-ESM-CHEM_204101-204512.nc": {
+  "year_start": "2041", 
+  "year_end": "2045", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "miroc-esm-chem", 
+  "md5": "8d34f92db0f65682b1effad29bb13b69"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_FGOALS-g2_196001-196412.nc": {
+  "year_start": "1960", 
+  "year_end": "1964", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "fgoals-g2", 
+  "md5": "8761b5a57cc09b6b349de3d91856ed31"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_MIROC-ESM_202601-203012.nc": {
+  "year_start": "2026", 
+  "year_end": "2030", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "miroc-esm", 
+  "md5": "e38452fae348f50a1995e1e8f4ae1e61"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_IPSL-CM5A-MR_205101-205512.nc": {
+  "year_start": "2051", 
+  "year_end": "2055", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "ipsl-cm5a-mr", 
+  "md5": "e43038332724bc71e0f76c67c2377ea0"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp60_r1i1p1_CONUS_HadGEM2-ES_201601-202012.nc": {
+  "year_start": "2016", 
+  "year_end": "2020", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "hadgem2-es", 
+  "md5": "d0b96bec72a046f283e231c695a06fc8"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_ACCESS1-0_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "access1-0", 
+  "md5": "c218926bfd4ff31e11501e3ef133e57a"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_MPI-ESM-LR_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "mpi-esm-lr", 
+  "md5": "b2726ee362ea4409316738fde2eed5b2"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_historical_r1i1p1_CONUS_GFDL-ESM2G_196501-196912.nc": {
+  "year_start": "1965", 
+  "year_end": "1969", 
+  "experiment_id": "historical", 
+  "variable": "tasmin", 
+  "model": "gfdl-esm2g", 
+  "md5": "08ed790550ac512042791c6e9c20aa21"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_ens-avg_amon_rcp85_CONUS_201101-201512.nc": {
+  "year_start": "2011", 
+  "year_end": "2015", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "ens-avg", 
+  "md5": "8d3b577ecac1347347c0167ce857eb76"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_CESM1-BGC_208101-208512.nc": {
+  "year_start": "2081", 
+  "year_end": "2085", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "cesm1-bgc", 
+  "md5": "b7b11177083ef3a0bb5dc0c9ece93560"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_CESM1-CAM5_208601-209012.nc": {
+  "year_start": "2086", 
+  "year_end": "2090", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "cesm1-cam5", 
+  "md5": "81d759b8f963f32a42c2ff846ff37e13"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_MRI-CGCM3_197501-197912.nc": {
+  "year_start": "1975", 
+  "year_end": "1979", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "mri-cgcm3", 
+  "md5": "9d4db2af9e0e47faebd4af0196047068"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_CanESM2_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "canesm2", 
+  "md5": "c2d3c096fb8fc8e3472ab8a161be53be"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_CanESM2_204101-204512.nc": {
+  "year_start": "2041", 
+  "year_end": "2045", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "canesm2", 
+  "md5": "f82da4630f11ccfc052350865ddfae0e"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_MIROC-ESM_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "miroc-esm", 
+  "md5": "83302b5c4720a6d1ae1954335851e0ae"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp26_r1i1p1_CONUS_MIROC-ESM_209601-209912.nc": {
+  "year_start": "2096", 
+  "year_end": "2099", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmin", 
+  "model": "miroc-esm", 
+  "md5": "daf00a0386d9467919139006a6a21ef6"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_MRI-CGCM3_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "mri-cgcm3", 
+  "md5": "cc7da08f293dab630916c8f54f2bd4d5"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_GFDL-ESM2G_206101-206512.nc": {
+  "year_start": "2061", 
+  "year_end": "2065", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "gfdl-esm2g", 
+  "md5": "c8b486878bd3da7fe569588334f2c9c6"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_historical_r1i1p1_CONUS_CSIRO-Mk3-6-0_200001-200412.nc": {
+  "year_start": "2000", 
+  "year_end": "2004", 
+  "experiment_id": "historical", 
+  "variable": "pr", 
+  "model": "csiro-mk3-6-0", 
+  "md5": "09d59c8da4064aaab452938c9e3b41b8"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_GISS-E2-R-CC_196501-196912.nc": {
+  "year_start": "1965", 
+  "year_end": "1969", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "giss-e2-r-cc", 
+  "md5": "3bfb9047ed8ed9a6a1abde894be91955"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp85_r1i1p1_CONUS_MPI-ESM-MR_204601-205012.nc": {
+  "year_start": "2046", 
+  "year_end": "2050", 
+  "experiment_id": "rcp85", 
+  "variable": "pr", 
+  "model": "mpi-esm-mr", 
+  "md5": "ec4a29f35716be9823f44a289890f313"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp60_r1i1p1_CONUS_MIROC-ESM-CHEM_209101-209512.nc": {
+  "year_start": "2091", 
+  "year_end": "2095", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "miroc-esm-chem", 
+  "md5": "c04002d656f9e8e72d8b9c932808ce04"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp45_r1i1p1_CONUS_MRI-CGCM3_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "mri-cgcm3", 
+  "md5": "c973c2970f74114f673da7f3095678fc"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_IPSL-CM5A-MR_199001-199412.nc": {
+  "year_start": "1990", 
+  "year_end": "1994", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "ipsl-cm5a-mr", 
+  "md5": "9e9571437f72a067d1273583e222da84"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp60/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_quartile75_amon_rcp60_CONUS_205601-206012.nc": {
+  "year_start": "2056", 
+  "year_end": "2060", 
+  "experiment_id": "rcp60", 
+  "variable": "tasmin", 
+  "model": "quartile75", 
+  "md5": "08ee8c5dbbc7683c08f0b2b9d8298533"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp45_r1i1p1_CONUS_FGOALS-g2_209601-209912.nc": {
+  "year_start": "2096", 
+  "year_end": "2099", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "fgoals-g2", 
+  "md5": "2ea8b0673aba59e90ea7e8b47ece36df"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp45/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_quartile50_amon_rcp45_CONUS_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmax", 
+  "model": "quartile50", 
+  "md5": "35a1940a5f36ec84363c984285d4b224"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp60/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp60_r1i1p1_CONUS_MIROC-ESM-CHEM_203601-204012.nc": {
+  "year_start": "2036", 
+  "year_end": "2040", 
+  "experiment_id": "rcp60", 
+  "variable": "pr", 
+  "model": "miroc-esm-chem", 
+  "md5": "fc28d33a410460534eadc2a90f247981"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_HadGEM2-ES_200512-200512.nc": {
+  "year_start": "2005", 
+  "year_end": "2005", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "hadgem2-es", 
+  "md5": "cc9a67e62dbbd830f9af5d82bc428cbc"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_historical_r1i1p1_CONUS_MPI-ESM-MR_196501-196912.nc": {
+  "year_start": "1965", 
+  "year_end": "1969", 
+  "experiment_id": "historical", 
+  "variable": "tasmin", 
+  "model": "mpi-esm-mr", 
+  "md5": "82c398c5dd3cc175653910d41add8e48"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_ens-avg_amon_rcp45_CONUS_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "ens-avg", 
+  "md5": "abbf7bb274f946272d3346c717ddc30b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_MPI-ESM-MR_205601-206012.nc": {
+  "year_start": "2056", 
+  "year_end": "2060", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "mpi-esm-mr", 
+  "md5": "2b81b1c58a216455e9ef27367f560c77"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp45_r1i1p1_CONUS_GFDL-ESM2G_203101-203512.nc": {
+  "year_start": "2031", 
+  "year_end": "2035", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "gfdl-esm2g", 
+  "md5": "d8740f153bc4500070f7dfa26b601f95"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp45/mon/atmos/pr/r1i1p1/v1.0/CONUS/pr_amon_BCSD_rcp45_r1i1p1_CONUS_MIROC-ESM_204601-205012.nc": {
+  "year_start": "2046", 
+  "year_end": "2050", 
+  "experiment_id": "rcp45", 
+  "variable": "pr", 
+  "model": "miroc-esm", 
+  "md5": "f9d6be867c5acc345a29d793eb98a71b"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp45/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_quartile75_amon_rcp45_CONUS_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp45", 
+  "variable": "tasmin", 
+  "model": "quartile75", 
+  "md5": "5d6723822567e228c2543eaba2f6c929"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_HadGEM2-AO_208101-208512.nc": {
+  "year_start": "2081", 
+  "year_end": "2085", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "hadgem2-ao", 
+  "md5": "8353dd28ca569a8fa39a90674a93a284"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp85_r1i1p1_CONUS_HadGEM2-ES_205601-206012.nc": {
+  "year_start": "2056", 
+  "year_end": "2060", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "hadgem2-es", 
+  "md5": "55d311e19b1c666aca29dd3c2495e05a"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_ens-avg_amon_rcp26_CONUS_206101-206512.nc": {
+  "year_start": "2061", 
+  "year_end": "2065", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "ens-avg", 
+  "md5": "bc07ad851151bc1513aeb157e0a3517e"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_NorESM1-M_203601-204012.nc": {
+  "year_start": "2036", 
+  "year_end": "2040", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "noresm1-m", 
+  "md5": "b849e6b51e4c014882aff72cd0dd3450"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/NEX-quartile/rcp85/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_quartile25_amon_rcp85_CONUS_206101-206512.nc": {
+  "year_start": "2061", 
+  "year_end": "2065", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmax", 
+  "model": "quartile25", 
+  "md5": "d89bb5121252594ecfa5cfaf16203764"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp26/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_rcp26_r1i1p1_CONUS_CESM1-CAM5_202101-202512.nc": {
+  "year_start": "2021", 
+  "year_end": "2025", 
+  "experiment_id": "rcp26", 
+  "variable": "tasmax", 
+  "model": "cesm1-cam5", 
+  "md5": "85e3fbeb53aa52bbac4c47b167fdb187"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_NorESM1-M_201601-202012.nc": {
+  "year_start": "2016", 
+  "year_end": "2020", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "noresm1-m", 
+  "md5": "c11b119714902e075ce790993dd58d9f"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/historical/mon/atmos/tasmax/r1i1p1/v1.0/CONUS/tasmax_amon_BCSD_historical_r1i1p1_CONUS_CESM1-CAM5_196501-196912.nc": {
+  "year_start": "1965", 
+  "year_end": "1969", 
+  "experiment_id": "historical", 
+  "variable": "tasmax", 
+  "model": "cesm1-cam5", 
+  "md5": "52e72cd7582202eb250666c8837ba480"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_BNU-ESM_207601-208012.nc": {
+  "year_start": "2076", 
+  "year_end": "2080", 
+  "experiment_id": "rcp85", 
+  "variable": "tasmin", 
+  "model": "bnu-esm", 
+  "md5": "375a739712da9b9b54e0f98c6603b12c"
+ }, 
+ "http://nasanex.s3.amazonaws.com/NEX-DCP30/BCSD/rcp85/mon/atmos/tasmin/r1i1p1/v1.0/CONUS/tasmin_amon_BCSD_rcp85_r1i1p1_CONUS_HadGEM2-ES_20
